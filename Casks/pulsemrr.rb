@@ -1,6 +1,6 @@
 cask "pulsemrr" do
-  version "0.9.6"
-  sha256 "89e2970599ea0f88d6cd612059d386d4f632872c8d5596112761ab8e90c74074"
+  version "0.9.7"
+  sha256 "d90e94cb63835f8802878b8f3512781d7c8a10ef21660229d7d35db276222a37"
 
   url "https://github.com/benjaminb10/pulsemrr/releases/download/v#{version}/PulseMRR.dmg"
   name "PulseMRR"
